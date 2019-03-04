@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/config/app.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="121" column="73" selection-start-line="121" selection-start-column="73" selection-end-line="121" selection-end-column="73" />
+              <caret line="121" column="26" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -44,9 +44,9 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="571" />
-    <option name="y" value="591" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="503" />
+    <option name="y" value="220" />
     <option name="width" value="1957" />
     <option name="height" value="900" />
   </component>
@@ -112,18 +112,18 @@
       <option name="presentableId" value="Default" />
       <updated>1551734685096</updated>
       <workItem from="1551734686386" duration="366000" />
-      <workItem from="1551735071038" duration="1690000" />
+      <workItem from="1551735071038" duration="2160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2056000" />
+    <option name="totallyTimeSpent" value="2526000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="571" y="591" width="1957" height="900" extended-state="0" />
+    <frame x="67" y="25" width="2489" height="1208" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3228676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25255832" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -136,8 +136,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294423" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49921507" visible="true" weight="0.3294423" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50078493" side_tool="true" visible="true" weight="0.3294423" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.499386" visible="true" weight="0.23540315" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.500614" side_tool="true" visible="true" weight="0.23540315" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -157,7 +157,7 @@
     <entry file="file://$PROJECT_DIR$/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="121" column="73" selection-start-line="121" selection-start-column="73" selection-end-line="121" selection-end-column="73" />
+          <caret line="121" column="26" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="26" />
         </state>
       </provider>
     </entry>
