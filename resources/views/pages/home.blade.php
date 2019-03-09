@@ -4,9 +4,9 @@
         <div class="container">
 
             <h1>IS601-NJIT Laravel Blade Template Engine Exercise</h1>
-            <p>This assignment is for week #2, It's a simple web page deployed to Heroku and is version controlled in my GitHub repo setup for IS601.  This weeks exercise provided a basic foundation for better understanding the Heroku platform, using formatting templates such as bootstrap and learning to use GitHub combined with the IDE PhpStorm.</p>
-            <a type="button" class="btn btn-lg btn-primary" href="https://github.com/heroku/php-getting-started"><span class="glyphicon glyphicon-download"></span> Heroku Example Source on GitHub</a>
-            <a type="button" class="btn btn-lg btn-primary" href="https://github.com/hoa44/IS601"><span class="glyphicon glyphicon-fire"></span> Hubbard's IS601 GitHub Repo</a>
+            <p>This assignment deals with getting familiar with setting up the Laravel Web Framework, It's a simple web page deployed to Heroku and is version controlled in my GitHub repo.  This weeks exercise provided a basic foundation for installing Laravel, and using the blade template engine to create a simple two page website.</p>
+            <a type="button" class="btn btn-lg btn-primary" href="https://laravel.com/docs/5.8/blade"><span class="fab fa-laravel"></span> Blade Template Overview</a>
+            <a type="button" class="btn btn-lg btn-primary" href="https://github.com/hoa44/Laravel-Blade-Templates"><span class="fab fa-github"></span> Hubbard's GitHub Repo</a>
         </div>
     </div>
 
@@ -15,7 +15,7 @@
 
         <div class="row align-items-center">
             <div class="col">
-                <p>The table below includes a selection of commits from my GitHub repository, there were many more commits made during this exercise because I was experimenting and practicing trying to learn how to use PhpStorm and GitHub.  This table is basically a selection of GitHub history outlining my effort to complete the 2nd weeks assignment for IS601. </p>
+                <p>The table below includes a selection of commits from my GitHub repository. This table is a selection of GitHub history outlining my effort to complete this assignment. </p>
 
             </div>
         </div>
@@ -32,17 +32,17 @@
             <tbody>
             <tr>
                 <th scope="row">1</th>
-                <td><a href="https://github.com/hoa44/IS601/commit/9158ad6dada5c760aab83d809624ac4cbfc17d8d">9158ad6</a></td>
-                <td>Testing commit with basic table added to index.twig</td>
-                <td>Feb 2, 2019</td>
-                <td><a href="https://github.com/hoa44/IS601/blob/9158ad6dada5c760aab83d809624ac4cbfc17d8d/web/views/index.twig">index.twig</a></td>
+                <td><a href="https://github.com/hoa44/Laravel-Blade-Templates/commit/408280fa842bdfa3a8a6471e6cb987f8c2bcc23d#diff-21c91d80d40ef7d1e5deb27735d58e18">408280f</a></td>
+                <td>Laravel setup and deployed to Heroku</td>
+                <td>March 4, 2019</td>
+                <td><a href="https://github.com/hoa44/Laravel-Blade-Templates/blob/master/resources/views/welcome.blade.php">welcome.blade.php</a></td>
             </tr>
             <tr>
                 <th scope="row">2</th>
-                <td><a href="https://github.com/hoa44/IS601/commit/3ac06decaff11668ddb765e11bab1f09093667a6">3ac06de</a></td>
-                <td>Going to push to Heroku and Git</td>
-                <td>Feb 3, 2019</td>
-                <td><a href="https://github.com/hoa44/IS601/blob/3ac06decaff11668ddb765e11bab1f09093667a6/web/views/index.twig">index.twig</a></td>
+                <td><a href="https://github.com/hoa44/Laravel-Blade-Templates/commit/c82ce11108cf9665fde9a576e0628956a2173ba2#diff-e58a4bf04a6b95ea1c58f2676675e280">c82ce11</a></td>
+                <td>First blade templates cloned from Prof Williams Github repo (showing the header)</td>
+                <td>March 7, 2019</td>
+                <td><a href="https://github.com/hoa44/Laravel-Blade-Templates/blob/c82ce11108cf9665fde9a576e0628956a2173ba2/resources/views/includes/header.blade.php">header.blade.php</a></td>
             </tr>
             <tr>
                 <th scope="row">3</th>
@@ -51,32 +51,18 @@
                 <td>Feb 4, 2019</td>
                 <td><a href="https://github.com/hoa44/IS601/blob/2c066a7e42f1cd3607426a44772faf266b16eb5d/web/views/index.twig">index.twig</a></td>
             </tr>
-            <tr>
-                <th scope="row">4</th>
-                <td><a href="https://github.com/hoa44/IS601/commit/79c1568d332806325b2b183a39df5f392641ff56">79c1568</a></td>
-                <td>Expand to 5 rows and update description of assignment.</td>
-                <td>Feb 4, 2019</td>
-                <td><a href="https://github.com/hoa44/IS601/blob/79c1568d332806325b2b183a39df5f392641ff56/web/views/index.twig">index.twig</a></td>
-            </tr>
-            <tr>
-                <th scope="row">5</th>
-                <td><a href="https://github.com/hoa44/IS601/commit/bd6fdbcc2d62f843208c139ba6b2694ea36f9017">bd6fdbc</a></td>
-                <td>Final cleanup and changing colors.</td>
-                <td>Feb 4, 2019</td>
-                <td><a href="https://github.com/hoa44/IS601/blob/bd6fdbcc2d62f843208c139ba6b2694ea36f9017/web/views/index.twig">index.twig</a></td>
-            </tr>
             </tbody>
         </table>
 
 
         <div class="row">
             <div class="col-sm-6">
-                <p>The table above includes a breakdown of the key commits to my GitHub repository.  It is basically a table my GitHub history outlining my effort to complete the 2nd weeks assignment.  You can view my entire commit history for this assignment <a href="https://github.com/hoa44/IS601/commits/master">here.</a></p>
+                <p>Lacus cras nibh himenaeos ipsum tempor consectetur sociosqu euismod gravida vulputate ultricies. Ipsum molestie dis purus dui venenatis. Accumsan duis netus in auctor feugiat pretium platea. Purus platea justo cum placerat ultricies ut ultrices mattis dictum ullamcorper fusce. Conubia commodo vel hac gravida sem neque leo hendrerit faucibus? Curae; lorem rhoncus sit dis sapien tortor integer tristique convallis orci. Quisque at platea fringilla magna curae; mauris proin rutrum malesuada pulvinar nisl. Commodo litora amet.
+                    </p>
 
             </div>
             <div class="col-sm-6">
-                <p>I have worked with web app version control systems designed for classical engineering, and manufacturing environments that manage the development efforts of mechanical and electrical designers.  These systems manage large file content in binary formats instead of text based code, and involve significant hosting infrastructures in the cloud or on premises.  I am amazed that Heroku platform has pretty much abstracted away the entire hosting infrastructure knowledge required to deploy web applications securely.  In this scenario, the developer doesn't need to concern themselves with all the gory details of web server setup, hardware, tls certs, authentication etc.  This great for rapid development of web applications, but it does create a low barrier to entry for acquiring development staff that don't need to know how to deal with all the back end pieces.
-
+                <p>Faucibus nibh nec gravida. Porta sociosqu porttitor urna malesuada sociosqu vitae primis quisque risus primis blandit taciti. Posuere maecenas pretium lacinia ullamcorper proin fusce. Posuere lacus mollis platea gravida montes mattis. Non ullamcorper vel dignissim interdum maecenas non inceptos nulla fringilla amet senectus nostra. Metus sem quisque, venenatis vivamus placerat leo augue aptent. Tempor placerat leo egestas maecenas elementum amet elementum cum, dignissim mattis massa? Augue dolor tincidunt proin libero, auctor molestie parturient consequat sodales? Auctor ridiculus urna neque magna diam tincidunt aliquam. Pharetra lacus porta curabitur dapibus. Imperdiet sed a euismod nibh nullam suspendisse.
             </div>
         </div>
     <!-- Marketing messaging and featurettes
