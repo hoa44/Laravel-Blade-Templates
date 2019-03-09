@@ -46,10 +46,10 @@
             </tr>
             <tr>
                 <th scope="row">3</th>
-                <td><a href="https://github.com/hoa44/IS601/commit/2c066a7e42f1cd3607426a44772faf266b16eb5d">2c066a7</a></td>
-                <td>Updating table with GitHub details</td>
-                <td>Feb 4, 2019</td>
-                <td><a href="https://github.com/hoa44/IS601/blob/2c066a7e42f1cd3607426a44772faf266b16eb5d/web/views/index.twig">index.twig</a></td>
+                <td><a href="https://github.com/hoa44/Laravel-Blade-Templates/commit/0c93ea16e2eb7058ae759f01b7eec1ddb1c96591#diff-0ab35e290ca0b1b3bbd73d550ea32574">0c93ea1</a></td>
+                <td>Project complete: final commit (showing the homepage template)</td>
+                <td>March 9, 2019</td>
+                <td><a href="https://github.com/hoa44/Laravel-Blade-Templates/blob/master/resources/views/pages/home.blade.php">home.blade.php</a></td>
             </tr>
             </tbody>
         </table>
